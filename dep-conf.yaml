@@ -1,4 +1,4 @@
-template-file-path: ./app-test.yaml ./s3.yaml
+template-file-path: ./app-test.yaml 
 
 parameters:
 
